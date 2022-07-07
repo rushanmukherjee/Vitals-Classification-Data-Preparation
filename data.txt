@@ -1,0 +1,19 @@
+person_id:
+1-Mq
+2-M
+3-G
+4-R
+5-S
+
+exercise:
+0-resting
+1-walking
+2-steps
+3-plank
+4-mountain climbing
+5-squats
+
+spo_base, heart_rate_base: taken with pulse oximeter
+SPO, heart_rate: taken with sensor
+time, x, y, z: taken with accelerometer
+	
