@@ -1,6 +1,10 @@
 # DS_Wellness
 
-This repository shows Data preparation phase of **Data Science** course mini-project (SoSe 2022) at **Saarland University**. 
+## *create_dataset*
+
+A series of csv files from several experiments of a group of 5 person is processed and converted into a final csv dataset ready to use in further AI-based modelling.
+
+This repository  shows Data preparation phase of **Data Science** course mini-project (SoSe 2022) at **Saarland University**. 
 
 Real time, raw data of Oxygen saturation (SpO2) and Heart Rate are taken from the sensor + patch developed by the **Leibniz Institute of New Materials (INM)**.
 
